@@ -1,0 +1,7 @@
+streamlit==1.31.1
+streamlit.components.v1
+streamlit_option_menu
+openai
+pandas
+sklearn.feature_extraction.text
+from sklearn.metrics.pairwise import cosine_similarity,linear_kernel
