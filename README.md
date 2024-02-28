@@ -48,7 +48,8 @@ Start the server
   streamlit run app.py
 
 ```
-
+##Figma Prototype
+https://www.figma.com/proto/eM3y5Tr2ckqX7uMmWz3cU5/Untitled?type=design&node-id=4-2&t=UzrgkJhDyoo7hYPV-1&scaling=contain&page-id=0%3A1&mode=design
 
 ## Demo
 
